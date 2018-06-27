@@ -1043,6 +1043,17 @@
     "repo": "https://github.com/sharkdp/purescript-numbers.git",
     "version": "v6.0.0"
   },
+  "ocelot": {
+    "dependencies": [
+      "halogen",
+      "halogen-select",
+      "fuzzy",
+      "polyform",
+      "remotedata"
+    ],
+    "repo": "https://github.com/citizennet/purescript-ocelot.git",
+    "version": "v0.2.0"
+  },
   "options": {
     "dependencies": [
       "contravariant",
